@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA D1
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad1.js
@@ -18,41 +18,40 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO PAKBULL576 76*44*11';
+var Comment1 = 'IYATOTO DIOR81 37*06*19';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / POKEK909 / 52 , 48 , 56';
+var Comment2 = 'Tiktaktogel / DIAM82 / 63 , 34 , 91';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (POSYAN676) = 99*36*40';
+var Comment3 = '#keitogel = (DEKAN91) = 99*67*05';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL PAKAI333 12*22*85'; 
+var Comment4 = 'ASEPTOGEL DORI92 12*85*75'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (PUANCEN444*33*98*90)'; 
+var Comment5 = '#PEDRO4D (DOMBA28*95*15*26)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
+var Comment6 = 'VESPATOGEL (DEDY38) 14*38*63';
 
 var namagroup7 = 'ANGKA';
-var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
+var Comment7 = '#JNETOTO(DUKUN77)*09*53*84';
 
 var namagroup8 = 'Hoho';
-var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
+var Comment8 = 'DANAU61 : 76*13*42 #HOHOTOGEL';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY PUSH565 43*60*57';
+var Comment9 =  'TOGELKUY DEON62 61*57*02';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
+var Comment10 = 'NEMO4D (DEMO90) : 90*72*01'; 
 
 var namagroup11 = 'STREMING';
-var Comment11 = 'SAHARA888 ( PALA212 ) 51*86*24'; 
+var Comment11 = 'SAHARA888 ( DEMIT91 ) 80*25*31'; 
 
 var namagroup12 = 'PASAR';
-var Comment12 = 'DAGELAN4D(PUNK888) : 20*55*64';
-
+var Comment12 = 'DAGELAN4D(DADU33) : 51*24*66';
 
 //BATAS BO 1
 var namagroup13 = 'TOYIBSLOT';
