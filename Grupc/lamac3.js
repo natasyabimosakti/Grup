@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         BO1 PAPA23
+// @name         ORI LAMA C3
 // @namespace    http://tampermonkey.net/
-// @version      1.23
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
