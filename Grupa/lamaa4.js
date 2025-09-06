@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         ORI ERI4
+// @name         ORI Lama A4
 // @namespace    http://tampermonkey.net/
 // @version      3.07
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
