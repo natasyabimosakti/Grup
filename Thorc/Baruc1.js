@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         ORI PAPA1
+// @name         BAru C1
 // @namespace    http://tampermonkey.net/
-// @version      2.10
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
