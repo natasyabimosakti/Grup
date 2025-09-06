@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         ORI 2 ERI2
+// @name         ORI LAMA B2
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
