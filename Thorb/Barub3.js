@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         SHANTI 3
+// @name         Baru B3
 // @namespace    http://tampermonkey.net/
-// @version      1.47
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
