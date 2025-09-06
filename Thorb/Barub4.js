@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         SHANTI 4
+// @name         BAru B4
 // @namespace    http://tampermonkey.net/
-// @version      1.48
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
