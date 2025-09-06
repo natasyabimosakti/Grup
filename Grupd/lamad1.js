@@ -24,10 +24,10 @@ var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / DIAM82 / 63 , 34 , 91';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (DEKAN91) = 99*67*05';
+var Comment3 = '#keitogel = (DEKAN91) = 12*85*75';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL DORI92 12*85*75'; 
+var Comment4 = 'ASEPTOGEL DORI92 99*67*05'; 
 
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (DOMBA28*95*15*26)'; 
