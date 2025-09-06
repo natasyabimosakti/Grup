@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         SHANTI 4
+// @name         Baru A4
 // @namespace    http://tampermonkey.net/
-// @version      3.67
+// @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua4.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
