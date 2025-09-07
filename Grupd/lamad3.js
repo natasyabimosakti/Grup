@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI LAMA D3
+// @name         ORI LAMA AMGIN D3
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -18,60 +18,59 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO PAKBULL576 76*44*11';
+var Comment1 = 'IYATOTO FANTA74 70*92*47';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / POKEK909 / 52 , 48 , 56';
+var Comment2 = 'Tiktaktogel / FUAD98 / 73 , 32 , 39';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (POSYAN676) = 99*36*40';
+var Comment3 = '#keitogel = (FAHRUN65) = 97*82*18';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL PAKAI333 12*22*85'; 
+var Comment4 = 'ASEPTOGEL FAJAR28 68*03*46'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (PUANCEN444*33*98*90)'; 
+var Comment5 = '#PEDRO4D (FOFOK34*86*77*58)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
+var Comment6 = 'VESPATOGEL (FISIK75) 71*41*88';
 
 var namagroup7 = 'ANGKA';
-var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
+var Comment7 = '#JNETOTO(FOMO97)*07*60*20';
 
 var namagroup8 = 'Hoho';
-var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
+var Comment8 = 'FITNAH22 : 22*93*98 #HOHOTOGEL';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY PUSH565 43*60*57';
+var Comment9 =  'TOGELKUY FERTIGO88 40*11*54';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
+var Comment10 = 'NEMO4D (FUSING77) : 83*87*16'; 
 
 var namagroup11 = 'STREMING';
-var Comment11 = 'SAHARA888 ( PALA212 ) 51*86*24'; 
+var Comment11 = 'SAHARA888 ( FINDAH14 ) 28*52*29'; 
 
 var namagroup12 = 'PASAR';
-var Comment12 = 'DAGELAN4D(PUNK888) : 20*55*64';
-
+var Comment12 = 'DAGELAN4D(FAHMIE59) : 50*27*36';
 
 //BATAS BO 1
-var namagroup13 = 'TOYIBSLOT';
+var namagroup13 = 'TOYIBSLOT0000';
 var Comment13 = '#TOYIBSLOT (PUCHER333) = 03*32';
 
-var namagroup14 = 'PAPUAT0T0';
+var namagroup14 = 'PAPUAT0T00000';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'TREX';
+var namagroup15 = 'TREX0000';
 var Comment15 = '#HATORIBET*PERAK689*67*79*92';
 
-var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A1';
+var namagroup16 = 'MENARAkkkk';
+var Comment16 = 'GRUP ANGIN 13';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup A1'; 
+var Comment17 = 'GRUP ANGIN 12'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup A1';
+var Comment18 = 'GRUP ANGIN 13';
 
 
 var SCRIPT_NAME = Comment18
