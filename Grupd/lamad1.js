@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI LAMA ANGIN D1
+// @name         ORI LAMA DEMAM 11
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -64,13 +64,13 @@ var namagroup15 = 'TREX0000';
 var Comment15 = '#HATORIBET*PERAK689*67*79*92';
 
 var namagroup16 = 'MENARAkkkk';
-var Comment16 = 'GRUP ANGIN 11';
+var Comment16 = 'GRUP DEMAM 11';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'GRUP ANGIN 11'; 
+var Comment17 = 'GRUP DEMAM 11'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'GRUP ANGIN 11';
+var Comment18 = 'GRUP DEMAM 11';
 
 
 var SCRIPT_NAME = Comment18
