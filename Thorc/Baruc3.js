@@ -69,7 +69,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (XCONE55) 68*15';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup F3';
+var Comment18 = 'Grup CACING 23';
 
 
 var SCRIPT_NAME = Comment18
