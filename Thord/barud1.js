@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru D1
+// @name         Baru DEMAM 21
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
