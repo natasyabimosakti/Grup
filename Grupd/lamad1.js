@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         ORI LAMA D1
+// @name         ORI LAMA ANGIN D1
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      1.00
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad1.js
