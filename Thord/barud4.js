@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru DEMAM 21
+// @name         Baru DEMAM 24
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -65,13 +65,13 @@ var namagroup15 = 'HITO';
 var Comment15 = '#HITOGEL DMdmdm 67*72*30';
 
 var namagroup16 = 'BENTOELLLL';
-var Comment16 = 'GRUP DEMAM 21';
+var Comment16 = 'GRUP DEMAM 24';
 
 var namagroup17 = 'SIALAN';
-var Comment17 = 'GRUP DEMAM 21';
+var Comment17 = 'GRUP DEMAM 24';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'GRUP DEMAM 21';
+var Comment18 = 'GRUP DEMAM 24';
 
 var SCRIPT_NAME = Comment18
 var refresh = 40;
