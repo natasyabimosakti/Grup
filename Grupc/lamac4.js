@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI LAMA C4
+// @name         ORI LAMA CACING 14
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -53,19 +53,21 @@ var Comment11 = 'SAHARA888 ( WOCO444 ) 94*48*54';
 var namagroup12 = 'PASAR';
 var Comment12 = 'DAGELAN4D(WHOIS87) : 53*66*32';
 
-var namagroup13 = 'K86';
-var Comment13 = 'K86TOTO ( WINDI55 ) : 27*00*42';
 
-var namagroup14 = 'GTO';
-var Comment14 = '(GUDANGTOTO) = (WUJONIE56) 95*30*62';
+//Batas1
+var namagroup13 = 'XXXXK86';
+var Comment13 = 'Grup CACING 14';
 
-var namagroup15 = 'RIATOTO';
-var Comment15 = '#RIATOTO WORRIE21 = 74*76*05';
+var namagroup14 = 'XXXXGTO';
+var Comment14 = 'Grup CACING 14';
 
-var namagroup16 = 'MAYAPADA';
-var Comment16 = 'BETT*Mayapada4D(BO)*WAIVE444*36*58*88';
+var namagroup15 = 'XXXXRIATOTO';
+var Comment15 = 'Grup CACING 14';
 
-//Batas
+var namagroup16 = 'XXXXXMAYAPADA';
+var Comment16 = 'Grup CACING 14';
+
+//Batas2
 
 var namagroup17 = 'KADALLLAL';
 var Comment17 = 'Grup CACING 14';
