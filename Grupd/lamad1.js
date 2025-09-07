@@ -54,23 +54,23 @@ var namagroup12 = 'PASAR';
 var Comment12 = 'DAGELAN4D(DADU33) : 51*24*56';
 
 //BATAS BO 1
-var namagroup13 = 'TOYIBSLOT';
+var namagroup13 = 'TOYIBSLOT0000';
 var Comment13 = '#TOYIBSLOT (PUCHER333) = 03*32';
 
-var namagroup14 = 'PAPUAT0T0';
+var namagroup14 = 'PAPUAT0T00000';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'TREX';
+var namagroup15 = 'TREX0000';
 var Comment15 = '#HATORIBET*PERAK689*67*79*92';
 
-var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A1';
+var namagroup16 = 'MENARAkkkk';
+var Comment16 = 'GRUP ANGIN 11';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup A1'; 
+var Comment17 = 'GRUP ANGIN 11'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup A1';
+var Comment18 = 'GRUP ANGIN 11';
 
 
 var SCRIPT_NAME = Comment18
