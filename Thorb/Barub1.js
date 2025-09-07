@@ -70,7 +70,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (TASMANIA2) 52*38';
 
 var namagroup18 = 'Jawatengan';
-var Comment18 = 'Grup D1';
+var Comment18 = 'Grup BEBEK 21';
 
 
 var SCRIPT_NAME = Comment18
