@@ -18,28 +18,28 @@
 // ==/UserScript==
 
 var namagroup1 = 'LOGAMTOTO';
-var Comment1 = '#LOGAMTOTO=WUJONIE56= 54*93#';
+var Comment1 = '#LOGAMTOTO=ANUNYA292= 50*28#';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( WINDI55 ) : 27*00*42';
+var Comment2 = 'K86TOTO ( AMPUNN365 ) : 58*29*00';
 
 var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (WUJONIE56) 95*30*62';
+var Comment3 = '(GUDANGTOTO) = (DONGDONG11) 33*35*89';
 
 var namagroup4 = 'RIATOTO';
-var Comment4 = '#RIATOTO WORRIE21 = 74*76*05';
+var Comment4 = '#RIATOTO ANDALAS282 = 38*85*32';
 
 var namagroup5 = 'MAYAPADA';
-var Comment5 = 'BETT*Mayapada4D(BO)*WAIVE444*36*58*88';
+var Comment5 = 'BETT*Mayapada4D(BO)*AEORO663*12*14*76';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (WONDER65) = 20*92*18';
+var Comment6 = '#DIVA4D (DELIMA18) = 66*94*81';
  
 var namagroup7 = 'TAFSIR';
-var Comment7 = 'SIJITOGEL WINXXX99 60*89*26';
+var Comment7 = 'SIJITOGEL DERMAWAN35 48*65*96';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 37*46*45';
+var Comment8 = 'Tok99Toto ( DUPLAK94 ) : 69*79*74';
 
 var namagroup9 = 'VESPA7093L';
 var Comment9 = 'VESPATOGEL (WHAWHA24) 73*44*16';
@@ -51,22 +51,22 @@ var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (WINTER360) = 58*88';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( WAOW001 ) : 50*12*52';
+var Comment12 = 'OPUNG4D ( ANCUR333 ) : 68*47*95';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL WULLING234 73*44*92';
 
 var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 13*08*30';
+var Comment14 = '#(WARUNGTOTO) = (ANDARA939) 40*52*83';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( WINTER360 ) 06*74*95 BETTING';
+var Comment15 = '#UPINSLOT ( ANTEP341 ) 14*70*61 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*WIGEN919*88*28*89';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (WDANCE456) 63*61';
+var Comment17 = 'LING77 (AWAKE909) 48*82';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup F4 ';
