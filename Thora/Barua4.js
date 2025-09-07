@@ -72,7 +72,7 @@ var namagroup17 = '(KAYANYA)';
 var Comment17 = 'LING77 (NARITA74) 37*95';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = ' GRUP B4  ';
+var Comment18 = ' GRUP ANGIN 24  ';
 
 
 var SCRIPT_NAME = Comment18
