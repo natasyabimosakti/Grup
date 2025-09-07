@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru A1
+// @name         Baru ANGIN 21
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -45,7 +45,7 @@ var Comment8 = 'BETT*Mayapada4D(BO)*PIANG213*97*17*07';
 var namagroup9 = 'UPINSLOT';
 var Comment9 = '#UPINSLOT ( PIQUE020 ) 43*56*86 BETTING';
 
-var namagroup10 = 'KIKOTOTO';
+var namagroup10 = 'XXXXKIKOTOTO';
 var Comment10 = '#KIKOTOTO (PIQUE020) = 97*17';
 
 var namagroup11 = 'MELATI188';
@@ -53,16 +53,16 @@ var Comment11 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( PESAN007 ) : 92*84*79';
-//BATAS
-
 
 var namagroup13 = 'LOGAMTOTO';
 var Comment13 = '#LOGAMTOTO=PERAK689= 16*76#';
 
-var namagroup14 = 'HITO';
+//BATAS
+
+var namagroup14 = 'XXXHITO';
 var Comment14 = '#HITOGEL PUCHER33 67*72*30';
 
-var namagroup15 = 'CITA-4D';
+var namagroup15 = 'XXXCITA-4D';
 var Comment15 = 'CITA4D*PONTA670*81*35*09';
 
 var namagroup16 = 'BENTOELLLL';
