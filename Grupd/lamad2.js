@@ -18,60 +18,59 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO PAKBULL576 76*44*11';
+var Comment1 = 'IYATOTO ENDAHH95 61*57*02';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / POKEK909 / 52 , 48 , 56';
+var Comment2 = 'Tiktaktogel / EYANG05 / 90 , 72 , 01';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (POSYAN676) = 99*36*40';
+var Comment3 = '#keitogel = (ENOKI55) = 76*13*42';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL PAKAI333 12*22*85'; 
+var Comment4 = 'ASEPTOGEL EMBER72 51*24*66'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (PUANCEN444*33*98*90)'; 
+var Comment5 = '#PEDRO4D (ELANG92*56*94*81)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
+var Comment6 = 'VESPATOGEL (ESSA72) 48*65*96';
 
 var namagroup7 = 'ANGKA';
-var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
+var Comment7 = '#JNETOTO(EKAA81)*33*35*89';
 
 var namagroup8 = 'Hoho';
-var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
+var Comment8 = 'ENTEK00 : 99*67*05 #HOHOTOGEL';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY PUSH565 43*60*57';
+var Comment9 =  'TOGELKUY ENTERR15 37*06*19';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
+var Comment10 = 'NEMO4D (EBIT90) : 64*34*91'; 
 
 var namagroup11 = 'STREMING';
-var Comment11 = 'SAHARA888 ( PALA212 ) 51*86*24'; 
+var Comment11 = 'SAHARA888 ( ENTOK22 ) 62*69*79'; 
 
 var namagroup12 = 'PASAR';
-var Comment12 = 'DAGELAN4D(PUNK888) : 20*55*64';
-
+var Comment12 = 'DAGELAN4D(EFORT78) : 12*85*75';
 
 //BATAS BO 1
-var namagroup13 = 'TOYIBSLOT';
+var namagroup13 = 'TOYIBSLOT0000';
 var Comment13 = '#TOYIBSLOT (PUCHER333) = 03*32';
 
-var namagroup14 = 'PAPUAT0T0';
+var namagroup14 = 'PAPUAT0T00000';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'TREX';
+var namagroup15 = 'TREX0000';
 var Comment15 = '#HATORIBET*PERAK689*67*79*92';
 
-var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A1';
+var namagroup16 = 'MENARAkkkk';
+var Comment16 = 'GRUP ANGIN 12';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup A1'; 
+var Comment17 = 'GRUP ANGIN 12'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup A1';
+var Comment18 = 'GRUP ANGIN 12';
 
 
 var SCRIPT_NAME = Comment18
