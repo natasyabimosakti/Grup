@@ -69,7 +69,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ROLOKAB111) 66*95';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup D3';
+var Comment18 = 'Grup BEBEK 23';
 
 
 var SCRIPT_NAME = Comment18
