@@ -69,7 +69,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (SHINY111) 07*65';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup D4';
+var Comment18 = 'Grup BEBEK 24';
 
 
 var SCRIPT_NAME = Comment18
