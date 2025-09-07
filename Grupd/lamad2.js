@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI LAMA D2
+// @name         ORI LAMA ANGIN D2
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
