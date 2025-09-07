@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru C4
+// @name         Baru CACING 24
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -41,19 +41,19 @@ var Comment7 = 'SIJITOGEL WINXXX99 60*89*26';
 var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 37*46*45';
 
-var namagroup9 = 'VESPA7093L';
-var Comment9 = 'VESPATOGEL (WHAWHA24) 73*44*16';
+var namagroup9 = 'XXXXXVESPA793L';
+var Comment9 = 'CACING 24 ';
 
-var namagroup10 = 'ANGKER';
-var Comment10 = 'ANGKER4D=WEKLOSE09=88*01*64';
+var namagroup10 = 'XXXXANGKER';
+var Comment10 = 'CACING 24 ';
 
-var namagroup11 = 'KIKOTOTO';
+var namagroup11 = 'XXXXKIKOTOTO';
 var Comment11 = '#KIKOTOTO (WINTER360) = 58*88';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( WAOW001 ) : 50*12*52';
 
-var namagroup13 = 'HITO';
+var namagroup13 = 'XXXXHITO';
 var Comment13 = '#HITOGEL WULLING234 73*44*92';
 
 var namagroup14 = '(WARTO)';
@@ -62,14 +62,14 @@ var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 13*08*30';
 var namagroup15 = 'UPINSLOT';
 var Comment15 = '#UPINSLOT ( WINTER360 ) 06*74*95 BETTING';
 
-var namagroup16 = 'CITA-4D';
-var Comment16 = 'CITA4D*WIGEN919*88*28*89';
+var namagroup16 = 'XXXCITA-4D';
+var Comment16 = 'CACING 24 ';
 
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (WDANCE456) 63*61';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup CACING 24 ';
+var Comment18 = 'CACING 24 ';
 
 
 var SCRIPT_NAME = Comment18
