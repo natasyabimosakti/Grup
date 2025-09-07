@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI Lama A4
+// @name         ORI Lama ANGIN 14
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -52,26 +52,28 @@ var Comment11 = 'SAHARA888 ( NEMBE31 ) 45*96*19';
  
 var namagroup12 = 'PASAR';
 var Comment12 = 'DAGELAN4D(NERO28) : 04*49*21';
- 
-var namagroup13 = 'TOYIBSLOT';
+
+
+
+var namagroup13 = 'ZZZTOYIBSLOT';
 var Comment13 = '#TOYIBSLOT (NABARU21) = 08*87';
  
-var namagroup14 = 'PAPUAT0T0';
+var namagroup14 = 'ZZZPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(NUNGGAK200)=27-46';
 
-var namagroup15 = 'TREX';
+var namagroup15 = 'ZZZTREX';
 var Comment15 = '#HATORIBET*HANTAR999*63*13*61';
 
-var namagroup16 = 'MENARA';
+var namagroup16 = 'ZZZZMENARA';
 var Comment16 = 'GRUP ANGIN 14';
 
 //Batas
 
 var namagroup17 = 'SIAhahhNG';
-var Comment17 = 'Grup ANGIN 14';
+var Comment17 = 'ANGIN 14';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup ANGIN 14'; 
+var Comment18 = 'ANGIN 14'; 
 
 
 var SCRIPT_NAME = Comment18
