@@ -66,10 +66,10 @@ var namagroup16 = 'NEMO4D';
 var Comment16 = 'NEMO4D (QUARTZ8) : 56*06*04';
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'GRUP C2'; 
+var Comment17 = 'GRUP BEBEK 12'; 
 
 var namagroup18 = 'BELUMMMM';
-var Comment18 = 'GRUP C2'; 
+var Comment18 = 'GRUP BEBEK 12'; 
 
 
 var SCRIPT_NAME = Comment18
