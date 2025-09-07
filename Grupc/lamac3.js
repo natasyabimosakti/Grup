@@ -70,11 +70,11 @@ var Comment16 = 'BETT*Mayapada4D(BO)*XMIN111*61*92*29';
 //Batas
 
 var namagroup17 = 'KADALLLAL';
-var Comment17 = 'Grup E3';
+var Comment17 = 'Grup CACING 13';
 
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup E3';
+var Comment18 = 'Grup CACING 13';
 
 
 var SCRIPT_NAME = Comment18
