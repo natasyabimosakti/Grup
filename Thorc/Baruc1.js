@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BAru C1
+// @name         BAru CACING 21
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -41,35 +41,37 @@ var Comment7 = 'SIJITOGEL ZUZUZU88 43*49*01';
 var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 71*39*75';
 
-var namagroup9 = 'VESPA7093L';
-var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
+var namagroup9 = 'OPUNG';
+var Comment9 = 'OPUNG4D ( ZUMIE22 ) : 16*67*72';
 
-var namagroup10 = 'ANGKER';
-var Comment10 = 'ANGKER4D=ZOMBIE22=76*45*34';
+var namagroup10 = '(WARTO)';
+var Comment10 = '#(WARUNGTOTO) = (YOUPUB33) 38*62*84';
 
-var namagroup11 = 'KIKOTOTO';
-var Comment11 = '#KIKOTOTO (ZUMBA78) = 09*26';
+var namagroup11 = 'UPINSLOT';
+var Comment11 = '#UPINSLOT ( ZUMBA78 ) 36*42*09 BETTING';
 
-var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 16*67*72';
+var namagroup12 = 'LING';
+var Comment12 = 'LING77 (ZUKAZUKA01) 05*70';
 
-var namagroup13 = 'HITO';
-var Comment13 = '#HITOGEL ZAPP313 49*35*74';
+//batas
 
-var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 38*62*84';
+var namagroup13 = 'XXXXKIKOTOTO';
+var Comment1 = '#KIKOTOTO (ZUMBA78) = 09*26';
 
-var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( ZUMBA78 ) 36*42*09 BETTING';
+var namagroup14 = 'XXXXHITO';
+var Comment14 = '#HITOGEL ZAPP313 49*35*74';
 
-var namagroup16 = 'CITA-4D';
-var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
+var namagroup15 = 'XXXVESPA7093L';
+var Comment15 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
-var namagroup17 = 'LING';
-var Comment17 = 'LING77 (ZUKAZUKA01) 05*70';
+var namagroup16 = 'XXXXCITA-4D';
+var Comment16 = 'CACING 21';
+
+var namagroup17 = 'XXXXANGKER';
+var Comment17 = 'CACING 21';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup CACING 21';
+var Comment18 = 'CACING 21';
 
 var SCRIPT_NAME = Comment18
 var refresh = 40;
