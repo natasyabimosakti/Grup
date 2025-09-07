@@ -71,13 +71,13 @@ var namagroup15 = 'CITA-4D';
 var Comment15 = 'CITA4D*PONTA670*81*35*09';
 
 var namagroup16 = 'BENTOELLLL';
-var Comment16 = 'GRUP B2';
+var Comment16 = 'GRUP ANGIN 22';
 
 var namagroup17 = 'ediaN';
-var Comment17 = 'GRUP B2';
+var Comment17 = 'GRUP ANGIN 22';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup B2';
+var Comment18 = 'Grup ANGIN 22';
 
 
 
