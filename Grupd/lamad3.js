@@ -68,7 +68,7 @@ var Comment16 = 'GRUP ANGIN 13';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'GRUP ANGIN 12'; 
+var Comment17 = 'GRUP ANGIN 13'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
 var Comment18 = 'GRUP ANGIN 13';
 
