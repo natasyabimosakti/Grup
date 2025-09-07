@@ -68,10 +68,10 @@ var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*IHSARU724*63*53*57';
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'GRUP B3';
+var Comment17 = 'GRUP ANGIN 23';
 
 var namagroup18 = 'MALAMMMMMM';
-var Comment18 = 'GRUP B3';
+var Comment18 = 'GRUP ANGIN 23';
 
 
 var SCRIPT_NAME = Comment18
