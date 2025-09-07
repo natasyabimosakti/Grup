@@ -66,10 +66,10 @@ var namagroup16 = 'NEMO4D';
 var Comment16 = 'NEMO4D (ROOM29) : 91*99*73';
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup C3';
+var Comment17 = 'Grup BEBEK 13';
 
 var namagroup18 = 'BELUM';
-var Comment18 = 'Grup C3'; 
+var Comment18 = 'Grup BEBEK 13'; 
 
 
 var SCRIPT_NAME = Comment18
