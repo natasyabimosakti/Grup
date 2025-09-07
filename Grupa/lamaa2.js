@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ORI LAMA A2
+// @name         ORI LAMA ANGIN 12
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -57,25 +57,25 @@ var Comment12 = 'DAGELAN4D(LUMER99) : 01*72*17';
 //BATAS2
 
 
-var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT (LIASTI39) = 15*78';
+var namagroup13 = 'XXXXTOYIBSLOT';
+var Comment13 = 'ANGIN 12';
 
-var namagroup14 = 'PAPUAT0T0';
+var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(LURAH24)=99-36';
 
 var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*LARASTI19*28*16*31';
 
-var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP ANGIN 12';
+var namagroup16 = 'XXXXMENARA';
+var Comment16 = 'ANGIN 12';
 
 //Batas
 
-var namagroup17 = 'MALAM';
-var Comment17 = 'Grup ANGIN 12';
+var namagroup17 = 'XXXMALAM';
+var Comment17 = 'ANGIN 12';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup ANGIN 12'; 
+var Comment18 = 'ANGIN 12'; 
 
 
 var SCRIPT_NAME = Comment18
