@@ -69,7 +69,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (QONCCER88) 67*49';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup D2';
+var Comment18 = 'Grup BEBEK 22';
 
 
 
