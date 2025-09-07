@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru A3
+// @name         Baru ANGIN 23
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -44,7 +44,7 @@ var Comment8 = 'BETT*Mayapada4D(BO)*ISEEU50*11*14*13';
 var namagroup9 = 'UPINSLOT';
 var Comment9 = '#UPINSLOT ( ICANSEE21 ) 57*68*31 BETTING';
 
-var namagroup10 = 'KIKOTOTO';
+var namagroup10 = 'XXXKIKOTOTO';
 var Comment10 = '#KIKOTOTO (ICANSEE21) = 11*14';
 
 var namagroup11 = 'LING';
