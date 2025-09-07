@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama A4
 // @namespace    http://tampermonkey.net/
-// @version      3.07
+// @version      1.00
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
@@ -63,15 +63,15 @@ var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*HANTAR999*63*13*61';
 
 var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A4';
+var Comment16 = 'GRUP ANGIN 14';
 
 //Batas
 
 var namagroup17 = 'SIAhahhNG';
-var Comment17 = 'Grup A4';
+var Comment17 = 'Grup ANGIN 14';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Grup A4'; 
+var Comment18 = 'Grup ANGIN 14'; 
 
 
 var SCRIPT_NAME = Comment18
