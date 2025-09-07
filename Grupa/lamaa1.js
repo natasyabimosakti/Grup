@@ -65,13 +65,13 @@ var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*PERAK689*67*79*92';
 
 var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A1';
+var Comment16 = 'GRUP ANGIN 11';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup A1'; 
+var Comment17 = 'Grup ANGIN 11'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup A1';
+var Comment18 = 'Grup ANGIN 11';
 
 
 var SCRIPT_NAME = Comment18
