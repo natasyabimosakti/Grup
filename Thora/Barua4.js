@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baru A4
+// @name         Baru ANGIN 24
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -45,7 +45,7 @@ var Comment8 = 'BETT*Mayapada4D(BO)*HINA738*36*26*73';
 var namagroup9 = 'UPINSLOT';
 var Comment9 = '#UPINSLOT ( HOPENG596 ) 93*33*82 BETTING';
 
-var namagroup10 = 'KIKOTOTO';
+var namagroup10 = 'XXXKIKOTOTO';
 var Comment10 = '#KIKOTOTO (HOPENG596) = 36*26';
 
 var namagroup11 = 'LING';
@@ -59,20 +59,20 @@ var Comment12 = 'OPUNG4D ( HOKI222 ) : 91*96*90';
 var namagroup13 = 'LOGAMTOTO';
 var Comment13 = '#LOGAMTOTO=HANTAR999= 62*85#';
 
-var namagroup14 = '(JEREMI)';
+var namagroup14 = '(XXJEREMI)';
 var Comment14 = '#(WARUNGTOTO) = (HINA738) 91*54*05';
 
-var namagroup15 = '(MUDAHHH)';
-var Comment15 = '#UPINSLOT ( HOPENG596 ) 50*38*94 BETTING';
+var namagroup15 = '(XMUDAHHH)';
+var Comment15 = 'GRUP ANGIN 24';
 
 var namagroup16 = 'CITA-4D';
-var Comment16 = 'CITA4D*HANTUPA909*00*99*85';
+var Comment16 = 'GRUP ANGIN 24';
 
 var namagroup17 = '(KAYANYA)';
-var Comment17 = 'LING77 (NARITA74) 37*95';
+var Comment17 = 'GRUP ANGIN 24';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = ' GRUP ANGIN 24  ';
+var Comment18 = 'GRUP ANGIN 24';
 
 
 var SCRIPT_NAME = Comment18
