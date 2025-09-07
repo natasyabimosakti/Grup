@@ -66,10 +66,10 @@ var namagroup16 = 'NEMO4D';
 var Comment16 = 'NEMO4D (SQUASH387) : 74*41*94';
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup C4'; 
+var Comment17 = 'Grup BEBEK 14'; 
 
 var namagroup18 = 'BELUM';
-var Comment18 = 'Grup C4'; 
+var Comment18 = 'Grup BEBEK 14'; 
 
 
 var SCRIPT_NAME = Comment18
