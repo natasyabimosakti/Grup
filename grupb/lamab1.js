@@ -57,7 +57,7 @@ var namagroup13 = 'PASAR';
 var Comment13 = 'DAGELAN4D(TRAIN19) : 22*71*42';
 
 var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( TENTREM20 ) 30*13*87';
+var Comment14 = 'SAHARA888 ( TENTREM20 ) 30*13';
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'TALKLESS100 : 83*08*25 #HOHOTOGEL';
