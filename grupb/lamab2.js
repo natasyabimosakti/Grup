@@ -57,7 +57,7 @@ var namagroup13 = 'PASAR';
 var Comment13 = 'DAGELAN4D(QANZA123) : 36*18*39';
 
 var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( QUICKLY8 ) 58*96*00';
+var Comment14 = 'SAHARA888 ( QUICKLY8 ) 58*96';
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'QRISS08 : 06*04*01 #HOHOTOGEL';
