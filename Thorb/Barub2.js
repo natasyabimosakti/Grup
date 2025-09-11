@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru B2
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub2.js
@@ -62,8 +62,8 @@ var Comment14 = '#(WARUNGTOTO) = (QERJA99) 44*03*46';
 var namagroup15 = 'UPINSLOT';
 var Comment15 = '#UPINSLOT ( QONCCER88 ) 59*50*30 BETTING';
 
-var namagroup16 = 'CITA-4D';
-var Comment16 = 'CITA4D*QUEEN710*88*85*30';
+var namagroup16 = 'MELATI188';
+var Comment16 = '*( MELATI188 ) ( QUANTUM73 )  00*01 *BETTING *TOGELONLINE';
 
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (QONCCER88) 67*49';
