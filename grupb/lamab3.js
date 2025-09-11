@@ -57,7 +57,7 @@ var namagroup13 = 'PASAR';
 var Comment13 = 'DAGELAN4D(ROMEO88) : 79*46*27';
 
 var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( RAIN19 ) 19*35*02';
+var Comment14 = 'SAHARA888 ( RAIN19 ) 19*35';
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'RAKBAR355 : 99*73*98 #HOHOTOGEL';
