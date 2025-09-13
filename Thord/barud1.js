@@ -61,7 +61,7 @@ var Comment13 = 'OPUNG4D ( ANCUR333 ) : 68*47*95';
 var namagroup14 = 'KIKOTOTO';
 var Comment14 = '#KIKOTOTO (DMdmdm) = 58*88';
 
-var namagroup15 = 'HITO';
+var namagroup15 = 'xxxxHITO';
 var Comment15 = '#HITOGEL DMdmdm 67*72*30';
 
 var namagroup16 = 'BENTOELLLL';
