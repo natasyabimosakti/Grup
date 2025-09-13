@@ -18,50 +18,50 @@
 // ==/UserScript==
 
 var namagroup1 = 'DIVA4D';
-var Comment1 = '#DIVA4D (DELIMA18) = 66*94*81';
+var Comment1 = '#DIVA4D (GAMBUH75) = 86*77*58';
  
 var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL DERMAWAN35 48*65*96';
+var Comment2 = 'SIJITOGEL GORENG45 71*41*88';
 
 var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (DONGDONG11) 33*35*89';
+var Comment3 = '(GUDANGTOTO) = (GAGAK75) 07*60*20';
 
 var namagroup4 = 'VIP';
-var Comment4 = 'Tok99Toto ( DUPLAK94 ) : 69*79*74';
+var Comment4 = 'Tok99Toto ( GENDUT81 ) : 52*29*55';
 
 var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (ANDARA939) 40*52*83';
+var Comment5 = '#(WARUNGTOTO) = (DADAKU818) 55*78*03';
 
 var namagroup6 = 'K86';
-var Comment6 = 'K86TOTO ( AMPUNN365 ) : 58*29*00';
+var Comment6 = 'K86TOTO ( DIAM001 ) : 96*05*20';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO ANDALAS282 = 38*85*32';
+var Comment7 = '#RIATOTO DUKUN275 = 91*90*07';
 
 var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*AEORO663*12*14*76';
+var Comment8 = 'BETT*Mayapada4D(BO)*DUSUN007*94*24*74';
 
 var namagroup9 = 'UPINSLOT';
-var Comment9 = '#UPINSLOT ( ANTEP341 ) 14*70*61 BETTING';
+var Comment9 = '#UPINSLOT ( DESAKU500 ) 67*18*08 BETTING';
 
 var namagroup10 = 'LOGAMTOTO';
-var Comment10 = '#LOGAMTOTO=ANUNYA292= 50*28#';
+var Comment10 = '#LOGAMTOTO=DOMPO451= 19*53#';
 
-var namagroup11 = 'MELATI188';
+var namagroup11 = 'XXXMELATI188';
 var Comment11 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup12 = 'LING';
-var Comment12 = 'LING77 (AWAKE909) 48*82';
+var Comment12 = 'LING77 (DOMBA666) 66*34';
 
 var namagroup13 = 'OPUNG';
-var Comment13 = 'OPUNG4D ( ANCUR333 ) : 68*47*95';
+var Comment13 = 'OPUNG4D ( DARIMANA100 ) : 30*27*71';
 
 //BATAS
 
-var namagroup14 = 'KIKOTOTO';
+var namagroup14 = 'XXXKIKOTOTO';
 var Comment14 = '#KIKOTOTO (DMdmdm) = 58*88';
 
-var namagroup15 = 'HITO';
+var namagroup15 = 'XXXXHITO';
 var Comment15 = '#HITOGEL DMdmdm 67*72*30';
 
 var namagroup16 = 'BENTOELLLL';
