@@ -18,50 +18,50 @@
 // ==/UserScript==
 
 var namagroup1 = 'DIVA4D';
-var Comment1 = '#DIVA4D (DELIMA18) = 66*94*81';
+var Comment1 = '#DIVA4D (FHARZA38) = 30*23*44';
  
 var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL DERMAWAN35 48*65*96';
+var Comment2 = 'SIJITOGEL FEYANG35 59*49*45';
 
 var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (DONGDONG11) 33*35*89';
+var Comment3 = '(GUDANGTOTO) = (FIFIN88) 43*10*04';
 
 var namagroup4 = 'VIP';
-var Comment4 = 'Tok99Toto ( DUPLAK94 ) : 69*79*74';
+var Comment4 = 'Tok99Toto ( FERDAUS55 ) : 08*78*65';
 
 var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (ANDARA939) 40*52*83';
+var Comment5 = '#(WARUNGTOTO) = (CACING888) 89*39*43';
 
 var namagroup6 = 'K86';
-var Comment6 = 'K86TOTO ( AMPUNN365 ) : 58*29*00';
+var Comment6 = 'K86TOTO ( CUMI382 ) : 63*84*15';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO ANDALAS282 = 38*85*32';
+var Comment7 = '#RIATOTO CACAR47 = 86*98*10';
 
 var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*AEORO663*12*14*76';
+var Comment8 = 'BETT*Mayapada4D(BO)*CIAMIS919*37*92*36';
 
 var namagroup9 = 'UPINSLOT';
-var Comment9 = '#UPINSLOT ( ANTEP341 ) 14*70*61 BETTING';
+var Comment9 = '#UPINSLOT ( CURUT202 ) 81*23*54 BETTING';
 
 var namagroup10 = 'LOGAMTOTO';
-var Comment10 = '#LOGAMTOTO=ANUNYA292= 50*28#';
+var Comment10 = '#LOGAMTOTO=CICAK959= 51*75#';
 
 var namagroup11 = 'MELATI188';
 var Comment11 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup12 = 'LING';
-var Comment12 = 'LING77 (AWAKE909) 48*82';
+var Comment12 = 'LING77 (CRASEM455) 60*09';
 
 var namagroup13 = 'OPUNG';
-var Comment13 = 'OPUNG4D ( ANCUR333 ) : 68*47*95';
+var Comment13 = 'OPUNG4D ( CEMONG625 ) : 79*06*56';
 
 //BATAS
 
-var namagroup14 = 'KIKOTOTO';
+var namagroup14 = 'XXXXKIKOTOTO';
 var Comment14 = '#KIKOTOTO (DMdmdm) = 58*88';
 
-var namagroup15 = 'HITO';
+var namagroup15 = 'XXXHITO';
 var Comment15 = '#HITOGEL DMdmdm 67*72*30';
 
 var namagroup16 = 'BENTOELLLL';
