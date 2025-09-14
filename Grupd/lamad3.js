@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 13
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad3.js
@@ -63,8 +63,8 @@ var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*FANTA15*29*55*17';
 
-var namagroup16 = 'MENARAkkkk';
-var Comment16 = 'GRUP DEMAM 13';
+var namagroup16 = 'ASIA';
+var Comment16 = '#ASIATOTO = {FINDAH14} = 28*52'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
