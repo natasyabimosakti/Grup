@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA CACING 13
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
@@ -63,9 +63,8 @@ var Comment14 = 'Grup CACING 13';
 var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*XILA45*41*36*47';
 
-var namagroup16 = 'XXXMAYAPADA';
-var Comment16 = 'Grup CACING 13';
-
+var namagroup16 = 'ASIA';
+var Comment16 = '#ASIATOTO = {XMAX999} = 52*38'; 
 
 //Batas
 
