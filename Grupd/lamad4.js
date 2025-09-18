@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 14
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad4.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO GARENG66 40*11*54';
+var Comment1 = 'IYATOTO GOLOK66 40*11*54';
 
 var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / GAGAH34 / 83 , 87 , 16';
