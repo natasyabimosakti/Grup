@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru DEMAM 24
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
@@ -30,7 +30,7 @@ var namagroup4 = 'VIP';
 var Comment4 = 'Tok99Toto ( GENDUT81 ) : 52*29*55';
 
 var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (DADAKU818) 55*78*03';
+var Comment5 = '#(WARUNGTOTO) = (DADAKU818) 55*78';
 
 var namagroup6 = 'K86';
 var Comment6 = 'K86TOTO ( DIAM001 ) : 96*05*20';
