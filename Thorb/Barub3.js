@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru B3
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
@@ -44,7 +44,7 @@ var Comment8 = 'Tok99Toto ( RUZAK676 ) : 73*82*86';
 var namagroup9 = 'LOGAMTOTO';
 var Comment9 = '#LOGAMTOTO=REALIS147= 76*45#';
 
-var namagroup10 = 'ANGKER';
+var namagroup10 = 'ANGKERrrrrr';
 var Comment10 = 'ANGKER4D=RUZAK676=18*75*17';
 
 var namagroup11 = 'DIVA4D';
@@ -57,7 +57,7 @@ var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL RUMM009 49*60*23';
 
 var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (RORO363) 28*52*04';
+var Comment14 = '#(WARUNGTOTO) = (RORO363) 28*52';
 
 var namagroup15 = 'UPINSLOT';
 var Comment15 = '#UPINSLOT ( ROLOKAB111 ) 71*95*06 BETTING';
