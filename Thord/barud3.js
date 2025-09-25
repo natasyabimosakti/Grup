@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru DEMAM 23
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
