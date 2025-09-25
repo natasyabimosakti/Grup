@@ -30,7 +30,7 @@ var namagroup4 = 'VIP';
 var Comment4 = 'Tok99Toto ( DUPLAK94 ) : 69*79*74';
 
 var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (BRAMM246) 17*79';
+var Comment5 = '#(WARUNGTOTO) = (ANDARA939) 40*52';
 
 var namagroup6 = 'K86';
 var Comment6 = 'K86TOTO ( AMPUNN365 ) : 58*29*00';
