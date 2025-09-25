@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.4
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud1.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
