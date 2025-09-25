@@ -36,7 +36,7 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (XEXEK90) = 28*04*58';
 
 var namagroup7 = 'TAFSIR';
-var Comment7 = 'SIJITOGEL XIKPRO34 05*82*03';
+var Comment7 = 'SIJITOGEL XIKPRO34 77*10*59';
 
 var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( XANDAL32 ) : 44*53*35';
