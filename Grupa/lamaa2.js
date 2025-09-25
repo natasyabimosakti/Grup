@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 12
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO LANDAK19 71*74*11';
+var Comment1 = 'IYATOTO LANDAK19 71*74*65';
 
 var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / LANDI72 / 69 , 18 , 59';
