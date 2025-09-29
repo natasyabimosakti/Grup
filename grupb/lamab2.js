@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA B2
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
