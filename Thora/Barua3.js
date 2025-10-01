@@ -48,7 +48,7 @@ var namagroup10 = 'XXXKIKOTOTO';
 var Comment10 = '#KIKOTOTO (ICANSEE21) = 11*14';
 
 var namagroup11 = 'LING';
-var Comment11 = 'LING77 (MALIAN19) 06*21';
+var Comment11 = 'LING77 (MALIAN19) 60*21';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( ILHAM88 ) : 94*01*77';
