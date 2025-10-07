@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama B1
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab1.js
@@ -53,7 +53,7 @@ var Comment11 = 'VESPATOGEL (TONGKOL65) 30*13*87';
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY TERANG93 77*81*33'; 
 
-var namagroup13 = 'PASAR';
+var namagroup13 = 'DAGELAN';
 var Comment13 = 'DAGELAN4D(TRAIN19) : 22*71*42';
 
 var namagroup14 = 'STREMING';
