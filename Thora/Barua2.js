@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru ANGIN 22
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua2.js
@@ -32,8 +32,8 @@ var Comment3 = '(GUDANGTOTO) = (JAPAN808) 28*16*31';
 var namagroup4 = 'VIP';
 var Comment4 = 'Tok99Toto ( JURANG888 ) : 15*78*10';
 
-var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (JEJER999) 34*46'; 
+var namagroup5 = 'BLITAR4D';
+var Comment5 = '#BLITAR4D (JUALAN666) = 34*46'; 
 
 var namagroup6 = 'K86';
 var Comment6 = 'K86TOTO ( JUKIRR777 ) : 49*54*69';
