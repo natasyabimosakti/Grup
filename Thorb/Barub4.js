@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru B4
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
@@ -56,8 +56,8 @@ var Comment12 = 'OPUNG4D ( SAPPHIR3 ) : 60*59*40';
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL SODA168 69*07*81';
 
-var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (SOS999) 62*09';
+var namagroup14 = 'BLITAR4D';
+var Comment14 = '#BLITAR4D (SENADA17) = 62*09';
 
 var namagroup15 = 'UPINSLOT';
 var Comment15 = '#UPINSLOT ( SHINY111 ) 36*32*39 BETTING';
