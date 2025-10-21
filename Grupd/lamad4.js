@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 14
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      4.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad4.js
@@ -54,7 +54,7 @@ var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(GION201) : 68*03*46';
 
 var namagroup13 = 'MELATI188';
-var Comment13 = '*( MELATI188 ) ( GENDON70 )  97*82 *BETTING *TOGELONLINE';
+var Comment13 = '*( MELATI188 ) ( GUNDAH02 )  97*82 *BETTING *TOGELONLINE';
 
 //BATAS BO 1
 
