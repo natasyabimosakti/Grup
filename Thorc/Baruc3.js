@@ -24,7 +24,7 @@ var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( XBAY875 ) : 16*02*90';
 
 var namagroup3 = 'KOITOTO';
-var Comment3 = '#KOITOTO ( XXXAGE30 ) 64*60';
+var Comment3 = '#KOITOTO ( XXXAGE30 ) 64*08';
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO XLXL456 = 06*22*99';
