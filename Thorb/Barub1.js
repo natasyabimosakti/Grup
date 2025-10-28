@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru B1
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub1.js
@@ -33,8 +33,8 @@ var Comment4 = 'BETT*Mayapada4D(BO)*TORNADO13*64*44*24';
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
-var namagroup6 = 'GTO';
-var Comment6 = '(GUDANGTOTO) = (TIRAMISU37) 37*25*47';
+var namagroup6 = 'KOITOTO';
+var Comment6 = '#KOITOTO ( TRENDY8 ) 55*99';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO TAS999 = 90*97*78';
