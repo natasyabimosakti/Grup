@@ -27,7 +27,7 @@ var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL JERUJI111 99*36*40';
 
 var namagroup3 = 'KOITOTO';
-var Comment3 = '#KOITOTO ( JAPAN808 ) 28*16';
+var Comment3 = '#KOITOTO ( LARASTI19 ) 28*16';
 
 var namagroup4 = 'VIP';
 var Comment4 = 'Tok99Toto ( JURANG888 ) : 15*78*10';
