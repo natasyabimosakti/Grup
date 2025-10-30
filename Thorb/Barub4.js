@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru B4
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
@@ -20,7 +20,7 @@
 var namagroup1 = 'VESPA7093L';
 var Comment1 = 'VESPATOGEL (SHINY111) 36*32*39';
 
-var namagroup2 = 'K86';
+var namagroup2 = 'K86T';
 var Comment2 = 'K86TOTO ( SUNRISE33 ) : 07*65*50';
 
 var namagroup3 = 'KIKOTOTO';
