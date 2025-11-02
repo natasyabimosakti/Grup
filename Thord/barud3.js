@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru DEMAM 23
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
@@ -23,7 +23,7 @@ var Comment1 = '#DIVA4D (FHARZA38) = 30*23*44';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL FEYANG35 59*49*45';
 
-var namagroup3 = 'KOITOTO';
+var namagroup3 = 'KOITOTO SYDNEY';
 var Comment3 = '#KOITOTO ( FIFIN88 ) 43*10';
 
 var namagroup4 = 'VIP';
