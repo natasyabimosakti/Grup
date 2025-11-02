@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru CACING 21
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
@@ -23,7 +23,7 @@ var Comment1 = '#LOGAMTOTO=ZAMBORE77= 29*41#';
 var namagroup2 = 'K86T';
 var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 59*56*12';
 
-var namagroup3 = 'KOITOTO';
+var namagroup3 = 'KOITOTO SYDNEY';
 var Comment3 = '#KOITOTO ( ZAMBORE77 ) 07*49';
 
 var namagroup4 = 'RIATOTO';
