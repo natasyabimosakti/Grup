@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 11
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
@@ -62,7 +62,7 @@ var Comment13 = '#TOYIBSLOT ( PUCHER333 ) : 86*24';
 var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'TREX';
+var namagroup15 = 'MARKAS';
 var Comment15 = '#HATORIBET*PAEAI77*51*10*39';
 
 var namagroup16 = 'ASIA';
