@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 12
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      4.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO ENDAHH95 61*57*02';
+var Comment1 = 'IYATOTO EMAS24 61*57*02';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / EYANG05 / 90 , 72 , 01';
+var Comment2 = 'Tiktaktogel / EKOR90 / 90 , 72 , 01';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (ENOKI55) = 76*13*42';
+var Comment3 = '#keitogel = (EFEK76) = 76*13*42';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL EMBER72 51*24*66'; 
+var Comment4 = 'ASEPTOGEL EMAK35 51*24*66'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (ELANG92*56*94*81)'; 
+var Comment5 = '#PEDRO4D (EMBRIO89*56*94*81)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (ESSA72) 48*00*96';
+var Comment6 = 'VESPATOGEL (ELOK65) 48*00*96';
 
 var namagroup7 = 'JNETOTO';
-var Comment7 = '#JNETOTO(EKAA81)*33*35*89';
+var Comment7 = '#JNETOTO(ESKRIM88)*33*35*89';
 
 var namagroup8 = 'LIVITOTO';
-var Comment8 = 'ENTEK00 = 99*67 #LIVITOTO';
+var Comment8 = 'ENAK45 = 99*67 #LIVITOTO';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY ENTERR15 37*06*19';
+var Comment9 =  'TOGELKUY EMBUN17 37*06*19';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (EBIT90) : 64*34*91'; 
+var Comment10 = 'NEMO4D (EROPA58) : 64*34*91'; 
 
 var namagroup11 = 'STREMING';
 var Comment11 = 'SAHARA888 ( ENTOK22 ) 62*69*79'; 
 
 var namagroup12 = 'DAGELAN';
-var Comment12 = 'DAGELAN4D(EFORT78) : 12*85*75';
+var Comment12 = 'DAGELAN4D(EKONOMI94) : 12*85*75';
 
 //BATAS BO 1
 var namagroup13 = 'TOYIBSLOT0000';
@@ -60,11 +60,11 @@ var Comment13 = '#TOYIBSLOT (PUCHER333) = 03*32';
 var namagroup14 = 'PAPUAT0T00000';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'MARKAS';
-var Comment15 = '#HATORIBET*ENAO32*79*74*80';
+var namagroup15 = 'HAT0R1';
+var Comment15 = '#HATORIBET*EMPATI78*79*74*80';
 
 var namagroup16 = 'ASIA';
-var Comment16 = '#ASIATOTO = {ENTOK22} = 62*69'; 
+var Comment16 = '#ASIATOTO = {EJUARA01} = 62*69'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
@@ -76,7 +76,7 @@ var Comment18 = 'GRUP DEMAM 12';
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer1.json"
-var keyword = ["ROOM","🎱ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","nemo"]
+var keyword = ["ROOM","🎱ROOM","𝗥𝗢𝗢𝗠","𝐑𝐎𝐎𝐌","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","𝐇𝟎𝐍𝐆𝐊𝟎𝐍𝐆𝐋𝟎𝐓𝐓𝟎","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
