@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru DEMAM 22
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud2.js
@@ -18,43 +18,43 @@
 // ==/UserScript==
 
 var namagroup1 = 'DIVA4D';
-var Comment1 = '#DIVA4D (ENDING21) = 95*15*26';
+var Comment1 = '#DIVA4D (EMBAH31) = 95*15*26';
  
 var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL EIGERR30 14*38*63';
+var Comment2 = 'SIJITOGEL EKSIM24 14*38*63';
 
 var namagroup3 = 'KOITOTO SYDNEY';
-var Comment3 = '#KOITOTO ( EWATA26 ) 09*53';
+var Comment3 = '#KOITOTO ( ETIKA57 ) 09*53';
 
 var namagroup4 = 'VIP';
-var Comment4 = 'Tok99Toto ( ENYONG15 ) : 25*31*21';
+var Comment4 = 'Tok99Toto ( ENDANG72 ) : 25*31*21';
 
 var namagroup5 = 'BLITAR4D';
-var Comment5 = '#BLITAR4D (BRAMM246) = 17*97';
+var Comment5 = '#BLITAR4D (BONUS50) = 17*97';
 
 var namagroup6 = 'K86T';
-var Comment6 = 'K86TOTO ( BUANG555 ) : 80*62*65';
+var Comment6 = 'K86TOTO ( BUNGA25 ) : 80*62*65';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO BENDERA454 = 01*42*33';
+var Comment7 = '#RIATOTO BENAR79 = 01*42*33';
 
 var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*BUSUR690*31*87*59';
+var Comment8 = 'BETT*Mayapada4D(BO)*BERKAH58*31*87*59';
 
 var namagroup9 = 'UPINSLOT';
-var Comment9 = '#UPINSLOT ( BEBEK552 ) 99*35*46 BETTING';
+var Comment9 = '#UPINSLOT ( BEDAK55 ) 99*35*46 BETTING';
 
 var namagroup10 = 'LOGAMTOTO';
-var Comment10 = '#LOGAMTOTO=BIASANYA200= 88*22#';
+var Comment10 = '#LOGAMTOTO=BULAN03= 88*22#';
 
 var namagroup11 = 'MELATI188';
 var Comment11 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup12 = 'LING';
-var Comment12 = 'LING77 (BRONTON934) 49*26';
+var Comment12 = 'LING77 (BAMBU21) 49*26';
 
 var namagroup13 = 'OPUNG';
-var Comment13 = 'OPUNG4D ( BISUL576 ) : 02*73*45';
+var Comment13 = 'OPUNG4D ( BISIK68 ) : 02*73*45';
 
 //BATAS
 
