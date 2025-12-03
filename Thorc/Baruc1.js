@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru CACING 21
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc1.js
@@ -48,7 +48,7 @@ var namagroup10 = 'BLITAR4D';
 var Comment10 = '#BLITAR4D (ZEPPIN32) = 38*62';
 
 var namagroup11 = 'UPINSLOT';
-var Comment11 = '#UPINSLOT ( ZUZIE08 ) 71*39*75 BETTING';
+var Comment11 = '#UPINSLOT ( ZUMBA78 ) 71*39*75 BETTING';
 
 var namagroup12 = 'LING';
 var Comment12 = 'LING77 (ZUKAZUKA01) 05*70';
