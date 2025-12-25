@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 23
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
@@ -53,14 +53,13 @@ var Comment11 = 'MALIAN19 = 21*60 #LIVITOTO';
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( ILHAM88 ) : 94*01*77';
 
-//BATAS
-
 var namagroup13 = 'LOGAMTOTO';
 var Comment13 = '#LOGAMTOTO=INDAH007= 35*37#';
 
-var namagroup14 = 'SURAMXXX';
-var Comment14 = '#HITOGEL ICECREAM35 34*23*18';
+var namagroup14 = 'TOYIBSLOT';
+var Comment14 = '#TOYIBSLOT ( MANDRA16 ) : 11*14*13';
 
+//BATAS
 var namagroup15 = 'SEPAHK';
 var Comment15 = '#HITOGEL ICECREAM35 34*23*18';
 
