@@ -18,28 +18,28 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO ARSEK64 97*88*85';
+var Comment1 = 'IYATOTO YONOBO74 64*12*46';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / ARHO36 / 30 , 39 , 96';
+var Comment2 = 'Tiktaktogel / YONOBO74 / 70 , 53 , 41';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (ARMAN67) = 92*94*89';
+var Comment3 = '#keitogel = (YONOBO74) = 79*14*37';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL ARNOM63 15*43*67'; 
+var Comment4 = 'ASEPTOGEL YONOBO74 82*56*84'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (VARIETY33*13*69*38)'; 
+var Comment5 = '#PEDRO4D (DAKOCAN80*01*17*48)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (ARBOS45) 54*77*81';
+var Comment6 = 'VESPATOGEL (YOREAN63) 74*61*26';
 
 var namagroup7 = 'JNETOTO';
-var Comment7 = '#JNETOTO(ARLON89)*91*28*59';
+var Comment7 = '#JNETOTO(YONEKWIK37)*63*33*50';
 
 var namagroup8 = 'LIVITOTO';
-var Comment8 = 'ARBEN64 = 23*34 #LIVITOTO';
+var Comment8 = 'YOJUAH63 = 65*86 #LIVITOTO';
 
 var namagroup9 = 'MASTER';
 var Comment9 =  'TOGELKUY ARBIS48 27*44*31';
