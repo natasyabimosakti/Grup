@@ -21,52 +21,52 @@ var namagroup1 = 'BUKU';
 var Comment1 = 'IYATOTO EDNON88 91*28*59';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / POKEK909 / 52 , 48 , 56';
+var Comment2 = 'Tiktaktogel / EDLINA56 / 23 , 34 , 05';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (POSYAN676) = 99*36*40';
+var Comment3 = '#keitogel = (EDELOP83) = 27*44*31';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL PAKAI333 12*22*85'; 
+var Comment4 = 'ASEPTOGEL EDKING52 10*71*20'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (PUANCEN444*33*98*90)'; 
+var Comment5 = '#PEDRO4D (JIHAN90*73*40*32)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
+var Comment6 = 'VESPATOGEL (EDONGYU6) 24*35*38';
 
 var namagroup7 = 'JNETOTO';
-var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
+var Comment7 = '#JNETOTO(EDION)*97*88*85';
 
-var namagroup8 = 'Hoho';
-var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
+var namagroup8 = 'LIVITOTO';
+var Comment8 = 'EDOLAN6 = 30*39 #LIVITOTO';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY PUSH565 43*60*57';
+var Comment9 =  'TOGELKUY EDANTAR6 92*94*89';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
+var Comment10 = 'NEMO4D (EDION19) : 15*43*67'; 
 
-var namagroup11 = 'STREMING';
-var Comment11 = 'SAHARA888 ( PALA212 ) 86*24';
+var namagroup11 = 'ASIA';
+var Comment11 = '#ASIATOTO = {JESCHA} = 13*69';
 
 var namagroup12 = 'DAGELAN';
-var Comment12 = 'DAGELAN4D(PUNK888) : 20*55*64';
+var Comment12 = 'DAGELAN4D(JOOJON33) : 66*98*29';
 
+var namagroup13 = 'HAT0R1';
+var Comment13 = '#HATORIBET*JADRAN66*54*77*81';
 
 //BATAS BO 1
 
-var namagroup13 = 'TOYIB';
-var Comment13 = '#TOYIBSLOT ( PUCHER333 ) : 86*24';
+var namagroup15 = 'TOYIB';
+var Comment15 = '#TOYIBSLOT ( PUCHER333 ) : 86*24';
 
 var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-var namagroup15 = 'HAT0R1';
-var Comment15 = '#HATORIBET*PAEAI77*51*10*39';
 
-var namagroup16 = 'ASIA';
-var Comment16 = '#ASIATOTO = {PALA212} = 86*24'; 
+var namagroup16 = 'NIHILLL';
+var Comment16 = '#ASIATOTO = {KAKUS} = 86*24'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
