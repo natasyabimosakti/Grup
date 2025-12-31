@@ -17,6 +17,19 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
+var namagroup6 = 'K86T';
+var Comment6 = 'K86TOTO ( JAGUAR55 ) : 80*02*21';
+
+var namagroup10 = 'KOITOTO';
+var Comment10 = '#KOITOTO ( EDIOYIB47 ) 25*06';
+
+var namagroup7 = 'RIATOTO';
+var Comment7 = '#RIATOTO JAMEEL = 60*04*07';
+
+var namagroup14 = 'TOYIBSLOT';
+var Comment14 = '#TOYIBSLOT ( EDOYIB47 ) : 68*45*00';
+
+
 
 var namagroup1 = 'DIVA4D';
 var Comment1 = '#DIVA4D (PERAK689) = 15*78*25';
@@ -33,11 +46,9 @@ var Comment4 = 'Tok99Toto ( PUANCEN444 ) : 03*32*34';
 var namagroup5 = 'BLITAR4D';
 var Comment5 = '#BLITAR4D (PUSING777) = 61*28';
 
-var namagroup6 = 'K86T';
-var Comment6 = 'K86TOTO ( JAGUAR55 ) : 80*02*21';
 
-var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO JAMEEL = 60*04*07';
+
+
 
 var namagroup8 = 'MAYAPADA';
 var Comment8 = 'BETT*Mayapada4D(BO)*PIANG213*97*17*07';
@@ -45,8 +56,7 @@ var Comment8 = 'BETT*Mayapada4D(BO)*PIANG213*97*17*07';
 var namagroup9 = 'UPINSLOT';
 var Comment9 = '#UPINSLOT ( PIQUE020 ) 43*56*86 BETTING';
 
-var namagroup10 = 'KOITOTO';
-var Comment10 = '#KOITOTO ( EDIOYIB47 ) 25*06';
+
 
 var namagroup11 = 'LIVITOTO';
 var Comment11 = 'PIANG212 = 44*25 #LIVITOTO';
@@ -58,8 +68,7 @@ var namagroup13 = 'LOGAMTOTO';
 var Comment13 = '#LOGAMTOTO=PERAK689= 16*76#';
 
 
-var namagroup14 = 'TOYIBSLOT';
-var Comment14 = '#TOYIBSLOT ( EDOYIB47 ) : 68*45*00';
+
 //BATAS
 var namagroup15 = 'XXXCITA-4D';
 var Comment15 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
