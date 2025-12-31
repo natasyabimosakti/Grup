@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru EMAN 21
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thore/barue1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thore/barue1.js
