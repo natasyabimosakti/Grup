@@ -65,7 +65,7 @@ var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
 var namagroup16 = 'NIHILLL';
-var Comment16 = '#ASIATOTO = {KAKUS} = 86*24'; 
+var Comment16 = '#..... = {KAKUS} = 86*24'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
