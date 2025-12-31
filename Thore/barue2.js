@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru EMAN 22
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thore/barue2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thore/barue2.js
@@ -67,13 +67,13 @@ var namagroup15 = 'XXXCITA-4D';
 var Comment15 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup16 = 'BENTOELLLL';
-var Comment16 = 'GRUP EMAN 21';
+var Comment16 = 'GRUP EMAN 22';
 
 var namagroup17 = 'SIALAN';
-var Comment17 = 'GRUP EMAN 21';
+var Comment17 = 'GRUP EMAN 22';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'GRUP EMAN 21';
+var Comment18 = 'GRUP EMAN 22';
 
 
 var SCRIPT_NAME = Comment18
