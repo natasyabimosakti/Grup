@@ -18,43 +18,43 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO EDNON88 91*28*59';
+var Comment1 = 'IYATOTO ARSEK64 97*88*85';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / EDLINA56 / 23 , 34 , 05';
+var Comment2 = 'Tiktaktogel / ARHO36 / 30 , 39 , 96';
 
 var namagroup3 = 'KEITOGEL';
-var Comment3 = '#keitogel = (EDELOP83) = 27*44*31';
+var Comment3 = '#keitogel = (ARMAN67) = 92*94*89';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL EDKING52 10*71*20'; 
+var Comment4 = 'ASEPTOGEL ARNOM63 15*43*67'; 
 
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (JIHAN90*73*40*32)'; 
+var Comment5 = '#PEDRO4D (VARIETY33*13*69*38)'; 
 
 var namagroup6 = 'VESPA7093L';
-var Comment6 = 'VESPATOGEL (EDONGYU6) 24*35*38';
+var Comment6 = 'VESPATOGEL (ARBOS45) 54*77*81';
 
 var namagroup7 = 'JNETOTO';
-var Comment7 = '#JNETOTO(EDION)*97*88*85';
+var Comment7 = '#JNETOTO(ARLON89)*91*28*59';
 
 var namagroup8 = 'LIVITOTO';
-var Comment8 = 'EDOLAN6 = 30*39 #LIVITOTO';
+var Comment8 = 'ARBEN64 = 23*34 #LIVITOTO';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY EDANTAR6 92*94*89';
+var Comment9 =  'TOGELKUY ARBIS48 27*44*31';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (EDION19) : 15*43*67'; 
+var Comment10 = 'NEMO4D (ARBIG53) : 10*71*20'; 
 
 var namagroup11 = 'ASIA';
-var Comment11 = '#ASIATOTO = {JESCHA} = 13*69';
+var Comment11 = '#ASIATOTO = {VALERIE} = 73*40';
 
 var namagroup12 = 'DAGELAN';
-var Comment12 = 'DAGELAN4D(JOOJON33) : 66*98*29';
+var Comment12 = 'DAGELAN4D(VERNIM89) : 68*45*00';
 
 var namagroup13 = 'HAT0R1';
-var Comment13 = '#HATORIBET*JADRAN66*54*77*81';
+var Comment13 = '#HATORIBET*VIENO90*24*35*32';
 
 //BATAS BO 1
 
@@ -69,9 +69,9 @@ var Comment16 = '#..... = {KAKUS} = 86*24';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup EMAN 11'; 
+var Comment17 = 'Grup EMAN 12'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup EMAN 11';
+var Comment18 = 'Grup EMAN 12';
 
 
 var SCRIPT_NAME = Comment18
