@@ -69,9 +69,9 @@ var Comment16 = '#..... = {KAKUS} = 86*24';
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup EMAN 12'; 
+var Comment17 = 'Grup EMAN 13'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup EMAN 12';
+var Comment18 = 'Grup EMAN 13';
 
 
 var SCRIPT_NAME = Comment18
