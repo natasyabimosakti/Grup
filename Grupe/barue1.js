@@ -64,15 +64,14 @@ var Comment15 = '#TOYIBSLOT ( PUCHER333 ) : 86*24';
 var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
-
 var namagroup16 = 'NIHILLL';
 var Comment16 = '#ASIATOTO = {KAKUS} = 86*24'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup ANGIN 11'; 
+var Comment17 = 'Grup EMAN 11'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = 'Grup ANGIN 11';
+var Comment18 = 'Grup EMAN 11';
 
 
 var SCRIPT_NAME = Comment18
