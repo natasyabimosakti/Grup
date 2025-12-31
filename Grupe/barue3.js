@@ -42,19 +42,19 @@ var namagroup8 = 'LIVITOTO';
 var Comment8 = 'YOJUAH63 = 65*86 #LIVITOTO';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY ARBIS48 27*44*31';
+var Comment9 =  'TOGELKUY YOKOJO3 90*51*99';
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (ARBIG53) : 10*71*20'; 
+var Comment10 = 'NEMO4D (YOYOKWIK3) : 78*42*62'; 
 
 var namagroup11 = 'ASIA';
-var Comment11 = '#ASIATOTO = {VALERIE} = 73*40';
+var Comment11 = '#ASIATOTO = {DIXIE42} = 16*36';
 
 var namagroup12 = 'DAGELAN';
-var Comment12 = 'DAGELAN4D(VERNIM89) : 68*45*00';
+var Comment12 = 'DAGELAN4D(DODOLL62) : 09*83*49';
 
 var namagroup13 = 'HAT0R1';
-var Comment13 = '#HATORIBET*VIENO90*24*35*32';
+var Comment13 = '#HATORIBET*DAKOTA09*03*08*55';
 
 //BATAS BO 1
 
