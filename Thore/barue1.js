@@ -17,70 +17,63 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup6 = 'K86T';
-var Comment6 = 'K86TOTO ( JAGUAR55 ) : 80*02*21';
+var namagroup1 = 'K86T';
+var Comment1 = 'K86TOTO ( JAGUAR55 ) : 80*02*21';
 
-var namagroup10 = 'KOITOTO';
-var Comment10 = '#KOITOTO ( EDIOYIB47 ) 25*06';
+var namagroup2 = 'KOITOTO';
+var Comment2 = '#KOITOTO ( EDIOYIB47 ) 25*06';
 
-var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO JAMEEL = 60*04*07';
+var namagroup3 = 'RIATOTO';
+var Comment3 = '#RIATOTO JAMEEL = 60*04*07';
 
-var namagroup14 = 'TOYIBSLOT';
-var Comment14 = '#TOYIBSLOT ( EDOYIB47 ) : 68*45*00';
+var namagroup4 = 'TOYIBSLOT';
+var Comment4 = '#TOYIBSLOT ( EDOYIB47 ) : 68*45*00';
 
+var namagroup5 = 'LOGAMTOTO';
+var Comment5 = '#LOGAMTOTO=JAZLAN54= 62*56#';
 
+var namagroup6 = 'DIVA4D';
+var Comment6 = '#DIVA4D (JOCELYN) = 04*29*88';
 
-var namagroup1 = 'DIVA4D';
-var Comment1 = '#DIVA4D (PERAK689) = 15*78*25';
+var namagroup7 = 'TAFSIR';
+var Comment7 = 'SIJITOGEL EDONGYU6 52*84*75';
 
-var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL PETRUK99 91*41*88';
+var namagroup8 = 'VIP';
+var Comment8 = 'Tok99Toto ( EDERBIA13 ) : 18*97*23';
 
-var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (PERAK689) 67*79*92';
+var namagroup9 = 'OPUNG';
+var Comment9 = 'OPUNG4D ( EDELINA56 ) : 46*34*05';
 
-var namagroup4 = 'VIP';
-var Comment4 = 'Tok99Toto ( PUANCEN444 ) : 03*32*34';
+var namagroup10 = 'BLITAR4D';
+var Comment10 = '#BLITAR4D (JESSAMY44) = 65*64';
 
-var namagroup5 = 'BLITAR4D';
-var Comment5 = '#BLITAR4D (PUSING777) = 61*28';
+var namagroup11 = 'UPINSLOT';
+var Comment11 = '#UPINSLOT ( ERABARU73 ) 67*54*69 BETTING';
 
+var namagroup12 = 'SAHABAT';
+var Comment12 = 'LING77 (EKAGE77) 92*32';
 
-
-
-
-var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*PIANG213*97*17*07';
-
-var namagroup9 = 'UPINSLOT';
-var Comment9 = '#UPINSLOT ( PIQUE020 ) 43*56*86 BETTING';
-
-
-
-var namagroup11 = 'LIVITOTO';
-var Comment11 = 'PIANG212 = 44*25 #LIVITOTO';
-
-var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( PESAN007 ) : 92*84*79';
-
-var namagroup13 = 'LOGAMTOTO';
-var Comment13 = '#LOGAMTOTO=PERAK689= 16*76#';
 
 
 
 //BATAS
+var namagroup13 = 'GTOTAGGSGGAG';
+var Comment13 = '(GUDANGTOTO) = (PERAK689) 67*79*92';
+
+var namagroup14 = 'MAYAPAAAAAADA';
+var Comment14 = 'BETT*Mayapada4D(BO)*PIANG213*97*17*07';
+
 var namagroup15 = 'XXXCITA-4D';
 var Comment15 = '*( MELATI188 ) ( PUCHER333 )  44*25 *BETTING *TOGELONLINE';
 
 var namagroup16 = 'BENTOELLLL';
-var Comment16 = 'GRUP ANGIN 21';
+var Comment16 = 'GRUP EMAN 21';
 
 var namagroup17 = 'SIALAN';
-var Comment17 = 'GRUP ANGIN 21';
+var Comment17 = 'GRUP EMAN 21';
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'GRUP ANGIN 21';
+var Comment18 = 'GRUP EMAN 21';
 
 
 var SCRIPT_NAME = Comment18
