@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama CACCING 11
 // @namespace    http://tampermonkey.net/
-// @version      4.3
+// @version      4.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
@@ -28,7 +28,7 @@ var namagroup3 = 'KEITOGEL';
 var Comment3 = '#keitogel = (ZZZZZZ66) = 71*46*68';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL ZUZUZU88 20*65*80'; 
+var Comment4 = 'ASEPTOGEL ZUZUZU88 39*33*91'; 
 
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (ZAMA737*93*83*87)'; 
