@@ -28,7 +28,7 @@ var namagroup3 = 'KEITOGEL';
 var Comment3 = '#keitogel = (ZZZZZZ66) = 71*46*68';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL ZUZUZU88 39*33*91'; 
+var Comment4 = 'ASEPTOGEL ZUZUZU88 09*26*79'; 
 
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (ZAMA737*93*83*87)'; 
