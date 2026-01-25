@@ -21,13 +21,13 @@ var namagroup1 = 'BUKU';
 var Comment1 = 'IYATOTO MANIK89 68*50*35';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / MALUKU12 / 68 , 50 , 35';
+var Comment2 = 'Tiktaktogel / MALUKU12 / 37 , 62 , 80';
  
 var namagroup3 = 'KEITOGEL';
 var Comment3 = '#keitogel = (MANIA30) = 45*96*19';
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL MARIA72 04*49*21';
+var Comment4 = 'ASEPTOGEL MARIA72 68*50*35';
  
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (MASIBAN30*08*00*87)';
@@ -45,7 +45,7 @@ var namagroup9 = 'MASTER';
 var Comment9 = 'TOGELKUY MAMIMU19 66*75*70';
  
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (MADSOLAR77) : 37*62*80';
+var Comment10 = 'NEMO4D (MADSOLAR77) : 04*49*21';
  
 var namagroup11 = 'STREMING';
 var Comment11 = 'SAHARA888 ( MARMUTE39 ) 97*82';
