@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama ANING 13
 // @namespace    http://tampermonkey.net/
-// @version      4.4
+// @version      4.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa3.js
@@ -18,10 +18,10 @@
 // ==/UserScript==
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'IYATOTO MANIK89 09*54*02';
+var Comment1 = 'IYATOTO MANIK89 68*50*35';
 
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / MALUKU12 / 37 , 62 , 80';
+var Comment2 = 'Tiktaktogel / MALUKU12 / 68 , 50 , 35';
  
 var namagroup3 = 'KEITOGEL';
 var Comment3 = '#keitogel = (MANIA30) = 45*96*19';
@@ -45,7 +45,7 @@ var namagroup9 = 'MASTER';
 var Comment9 = 'TOGELKUY MAMIMU19 66*75*70';
  
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (MADSOLAR77) : 68*50*35';
+var Comment10 = 'NEMO4D (MADSOLAR77) : 37*62*80';
  
 var namagroup11 = 'STREMING';
 var Comment11 = 'SAHARA888 ( MARMUTE39 ) 97*82';
