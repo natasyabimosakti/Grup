@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 11
 // @namespace    http://tampermonkey.net/
-// @version      4.4
+// @version      4.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
@@ -36,7 +36,7 @@ var namagroup6 = 'VESPA7093L';
 var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
 
 var namagroup7 = 'JNETOTO';
-var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
+var Comment7 = '#JNETOTO(PAYAH999)*91*41*88';
 
 var namagroup8 = 'Hoho';
 var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
