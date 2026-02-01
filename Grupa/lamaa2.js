@@ -67,7 +67,7 @@ var namagroup15 = 'HAT0R1';
 var Comment15 = '#HATORIBET*LIMBAT21*20*55*64';
 
 var namagroup16 = 'KIKOTOTO';
-var Comment16 = '#KIKOTOTO (PIQUE020) = 52*48';
+var Comment16 = '#KIKOTOTO (JONGKOK222) = 52*48';
 
 
 //Batas
