@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru B1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub1.js
@@ -51,7 +51,7 @@ var Comment10 = 'ANGKER4D=TASTY89=90*97*78';
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (TUNAI123) = 02*58*15';
 
-var namagroup12 = 'OPUNG';
+var namagroup12 = 'OPUNG4D';
 var Comment12 = 'OPUNG4D ( TERMOS88 ) : 77*81*33';
 
 var namagroup13 = 'TOYIBSLOT';
