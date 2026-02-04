@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 24
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua4.js
@@ -51,7 +51,7 @@ var Comment10 = '#KIKOTOTO (HOPENG596) = 36*26';
 var namagroup11 = 'LING';
 var Comment11 = 'LING77 (NARITA74) 45*72';
 
-var namagroup12 = 'OPUNG';
+var namagroup12 = 'OPUNG4D';
 var Comment12 = 'OPUNG4D ( HOKI222 ) : 91*96*90';
 
 var namagroup14 = 'TOYIBSLOT';
