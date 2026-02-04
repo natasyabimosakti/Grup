@@ -42,7 +42,7 @@ var namagroup8 = 'Hoho';
 var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
 
 var namagroup9 = 'MASTER';
-var Comment9 =  'TOGELKUY PUSH565 43*60*57';
+var Comment9 =  'TOGELKUY PUSH565 91*41*88';
 
 var namagroup10 = 'NEMO4D';
 var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
@@ -63,7 +63,7 @@ var namagroup14 = 'XXXXPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
 
 var namagroup15 = 'HAT0R1';
-var Comment15 = '#HATORIBET*PAEAI77*91*41*88';
+var Comment15 = '#HATORIBET*PAEAI77*43*60*57';
 
 var namagroup16 = 'KIKOTOTO';
 var Comment16 = '#KIKOTOTO (PIQUE020) = 86*24'; 
