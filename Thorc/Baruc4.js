@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru CACING 24
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc4.js
@@ -50,7 +50,7 @@ var Comment10 = '#BLITAR4D (WINDOW98) = 13*08';
 var namagroup11 = 'XXXXKIKOTOTO';
 var Comment11 = '#KIKOTOTO (WINTER360) = 58*88';
 
-var namagroup12 = 'OPUNG';
+var namagroup12 = 'OPUNG4D';
 var Comment12 = 'OPUNG4D ( WAOW001 ) : 50*12*52';
 
 var namagroup13 = 'XXXXHITO';
