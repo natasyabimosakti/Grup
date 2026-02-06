@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 12
 // @namespace    http://tampermonkey.net/
-// @version      4.6
+// @version      4.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
@@ -27,7 +27,7 @@ var namagroup3 = 'KEITOGEL';
 var Comment3 = '#keitogel = (LARIKA19) = 67*79*92'; 
 
 var namagroup4 = '453P';
-var Comment4 = 'ASEPTOGEL LALILA29 20*55*64';
+var Comment4 = 'ASEPTOGEL LALILA29 76*44*11';
 
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (LAINNYA19*51*86*24)';
@@ -45,7 +45,7 @@ var namagroup9 = 'MASTER';
 var Comment9 =  'TOGELKUY LIMAU94 33*98*90'; 
 
 var namagroup10 = 'NEMO4D';
-var Comment10 = 'NEMO4D (LIAMBA32) : 76*44*11';
+var Comment10 = 'NEMO4D (LIAMBA32) : 20*55*64';
  
 var namagroup11 = 'STREMING';
 var Comment11 =  'SAHARA888 ( LUMBA328 ) 52*48';
