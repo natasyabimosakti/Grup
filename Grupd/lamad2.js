@@ -38,8 +38,8 @@ var Comment6 = 'VESPATOGEL (ELOK65) 48*00*96';
 var namagroup7 = 'JNETOTO';
 var Comment7 = '#JNETOTO(ESKRIM88)*33*35*89';
 
-var namagroup13 = 'PRIA4D';
-var Comment13 = '#PRIA4D ( ENAK45 ) : 99*67*05';
+var namagroup8 = 'PRIA4D';
+var Comment8 = '#PRIA4D ( ENAK45 ) : 99*67*05';
 
 var namagroup9 = 'MASTER';
 var Comment9 =  'TOGELKUY EMBUN17 37*06*19';
