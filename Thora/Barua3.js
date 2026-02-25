@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 23
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      4.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
@@ -47,8 +47,8 @@ var Comment9 = '#UPINSLOT ( ICANSEE21 ) 57*68*31 BETTING';
 var namagroup10 = 'XXXKIKOTOTO';
 var Comment10 = '#KIKOTOTO (ICANSEE21) = 11*14';
 
-var namagroup11 = 'PRIA4D';
-var Comment11 = '#PRIA4D ( MALIAN19 ) : 21*60*80';
+var namagroup11 = 'BERSAMA';
+var Comment11 = '#BERLIANJITU#MALIAN19*21*60*';
 
 var namagroup12 = 'OPUNG4D';
 var Comment12 = 'OPUNG4D ( ILHAM88 ) : 94*01*77';
@@ -76,7 +76,7 @@ var Comment18 = 'GRUP ANGIN 23';
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
-var keyword = ["🏆ROOM","ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
+var keyword = ["🏆ROOM","ROOM","RUM","🆁🅾🅾🅼","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
