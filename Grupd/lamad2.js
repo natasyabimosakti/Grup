@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 12
 // @namespace    http://tampermonkey.net/
-// @version      4.7
+// @version      4.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
@@ -38,8 +38,8 @@ var Comment6 = 'VESPATOGEL (ELOK65) 48*00*96';
 var namagroup7 = 'JNETOTO';
 var Comment7 = '#JNETOTO(ESKRIM88)*33*35*89';
 
-var namagroup8 = 'PRIA4D';
-var Comment8 = '#PRIA4D ( ENAK45 ) : 99*67*05';
+var namagroup8 = 'BERSAMA';
+var Comment8 = '#BERLIANJITU#ENAK45*99*67*';
 
 var namagroup9 = 'MASTER';
 var Comment9 =  'TOGELKUY EMBUN17 37*06*19';
@@ -76,7 +76,7 @@ var Comment18 = 'GRUP DEMAM 12';
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer1.json"
-var keyword = ["ROOM","🎱ROOM","𝗥𝗢𝗢𝗠","login","Lomba","𝐑𝐎𝐎𝐌","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","𝐇𝟎𝐍𝐆𝐊𝟎𝐍𝐆𝐋𝟎𝐓𝐓𝟎","nemo"]
+var keyword = ["ROOM","🎱ROOM","🆁🅾🅾🅼","𝗥𝗢𝗢𝗠","login","Lomba","𝐑𝐎𝐎𝐌","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","𝐇𝟎𝐍𝐆𝐊𝟎𝐍𝐆𝐋𝟎𝐓𝐓𝟎","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
