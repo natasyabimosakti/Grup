@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru B3
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      4.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub3.js
@@ -62,8 +62,8 @@ var Comment14 = '#BLITAR4D (ROTTAN131) = 28*52';
 var namagroup15 = 'UPINSLOT';
 var Comment15 = '#UPINSLOT ( ROLOKAB111 ) 71*95*06 BETTING';
 
-var namagroup16 = 'PRIA4D';
-var Comment16 = '#PRIA4D ( RISE989 ) : 42*91*29';
+var namagroup16 = 'BERSAMA';
+var Comment16 = '#BERLIANJITU#RISE989*42*91*';
 
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ROLOKAB111) 66*95';
@@ -75,7 +75,7 @@ var Comment18 = 'Grup BEBEK 23';
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
-var keyword = ["ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
+var keyword = ["ROOM","RUM","🆁🅾🅾🅼","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
