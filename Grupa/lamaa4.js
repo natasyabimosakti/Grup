@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama ANGIN 14
 // @namespace    http://tampermonkey.net/
-// @version      4.6
+// @version      4.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa4.js
@@ -61,7 +61,7 @@ var Comment13 = '#TOYIBSLOT (NABARU21) = 08*87';
 var namagroup14 = 'ZZZPAPUAT0T0';
 var Comment14 =  '#PAPUATOTO=(NUNGGAK200)=27-46';
 
-var namagroup15 = 'HAT0R1';
+var namagroup15 = 'EMPAT';
 var Comment15 = '#HATORIBET*NENENG93*19*53*00';
 
 var namagroup16 = 'KIKOTOTO';
