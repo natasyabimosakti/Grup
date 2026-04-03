@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA CACING 14
 // @namespace    http://tampermonkey.net/
-// @version      4.7
+// @version      4.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac4.js
@@ -47,8 +47,8 @@ var Comment9 =  'TOGELKUY WAOW001 15*67*85';
 var namagroup10 = 'NEMO4D';
 var Comment10 = 'NEMO4D (WINTER360) : 98*81*18'; 
 
-var namagroup11 = 'STREMING';
-var Comment11 = 'SAHARA888 ( WOCO444 ) 94*48'; 
+var namagroup11 = 'ALTERT0T0';
+var Comment11 = '#ALTERTOTO#WAWAN92*08*63*54';
 
 var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(WHOIS87) : 53*66*32';
