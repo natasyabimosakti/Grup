@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA B3
 // @namespace    http://tampermonkey.net/
-// @version      3.46
+// @version      3.47
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab3.js
@@ -56,8 +56,8 @@ var Comment12 = 'TOGELKUY REOTKAB475 20*03*89';
 var namagroup13 = 'DAGELAN';
 var Comment13 = 'DAGELAN4D(ROMEO88) : 79*46*27';
 
-var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( RAIN19 ) 19*35';
+var namagroup14 = 'ALTERT0T0';
+var Comment14 = '#ALTERTOTO#RISE989*02*98*91';
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'RAKBAR355 : 99*73*98 #HOHOTOGEL';
