@@ -48,7 +48,7 @@ var namagroup10 = 'NEMO4D';
 var Comment10 = 'NEMO4D (LIAMBA32) : 20*55*64';
  
 var namagroup11 = 'ALTERT0T0';
-var Comment11 = '#ALTERTOTO#EMPATI78*79*74*80';
+var Comment11 = '#ALTERTOTO#LIMBAT21*20*55*64';
 
 var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(LUMER99) : 01*72*17';
