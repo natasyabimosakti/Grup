@@ -48,7 +48,7 @@ var namagroup10 = 'NEMO4D';
 var Comment10 = 'NEMO4D (MADSOLAR77) : 04*49*21';
  
 var namagroup11 = 'ALTERT0T0';
-var Comment11 = '#ALTERTOTO#FANTA15*29*55*17';
+var Comment11 = '#ALTERTOTO#MALAY12*30*84*14';
  
 var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(MASIKA12) : 77*38*94';
