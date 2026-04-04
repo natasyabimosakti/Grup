@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru DEMAM 23
 // @namespace    http://tampermonkey.net/
-// @version      4.3
+// @version      4.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thord/barud3.js
@@ -53,8 +53,8 @@ var Comment11 = '*( MELATI188 ) ( FITNAH22 )  22*93 *BETTING *TOGELONLINE';
 var namagroup12 = 'LING';
 var Comment12 = 'LING77 (CRASEM455) 60*09';
 
-var namagroup13 = 'OPUNG4D';
-var Comment13 = 'OPUNG4D ( CEMONG625 ) : 79*06*56';
+var namagroup13 = 'JOTUNTOTO';
+var Comment13 = '#JOTUNTOTO(CEMONG625)*79*06*56';
 
 var namagroup15 = 'TOYIBSLOT';
 var Comment15 = '#TOYIBSLOT ( CIAMIS919 ) : 37*92*36';
