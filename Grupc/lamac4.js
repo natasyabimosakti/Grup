@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA CACING 14
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac4.js
@@ -55,22 +55,22 @@ var Comment12 = 'DAGELAN4D(WHOIS87) : 53*66*32';
 
 
 //Batas1
-var namagroup13 = 'XXXXK86';
-var Comment13 = 'Grup CACING 14';
+var namagroup13 = 'K86T';
+var Comment13 = 'K86TOTO ( WINDI55 ) : 27*00*42';
 
-var namagroup14 = 'XXXXGTO';
-var Comment14 = 'Grup CACING 14';
+var namagroup14 = 'KOITOTO SYDNEY';
+var Comment14 = '#KOITOTO ( WINTER360 ) 95*30';
 
-var namagroup15 = 'INFO';
-var Comment15 = '#HATORIBET*WAWAN92*08*63*54';
+var namagroup15 = 'RIATOTO';
+var Comment15 = '#RIATOTO WORRIE21 = 74*76*05';
 
 var namagroup16 = 'KIKOTOTO';
 var Comment16 = '#KIKOTOTO (WINTER360) = 94*48';; 
 
 //Batas2
 
-var namagroup17 = 'KADALLLAL';
-var Comment17 = 'Grup CACING 14';
+var namagroup17 = 'TOYIBSLOT';
+var Comment17 = '#TOYIBSLOT ( WULLING234 ) : 36*58*88';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup CACING 14';
