@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA DEMAM 12
 // @namespace    http://tampermonkey.net/
-// @version      5.3
+// @version      5.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupd/lamad2.js
@@ -48,7 +48,7 @@ var namagroup10 = 'NEMO4D';
 var Comment10 = 'NEMO4D (EROPA58) : 64*34*91'; 
 
 var namagroup11 = 'ALTERT0T0';
-var Comment11 = '#ALTERTOTO#EMPATI78*79*74*80';
+var Comment11 = '#ALTERTOTO#EMPATI78*62*74*80';
 
 var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(EKONOMI94) : 12*85*75';
@@ -64,7 +64,7 @@ var namagroup15 = 'INFO';
 var Comment15 = '#HATORIBET*EMPATI78*79*74*80';
 
 var namagroup16 = 'KIKOTOTO';
-var Comment16 = '#KIKOTOTO (EJUARA01) = 62*69'; 
+var Comment16 = '#KIKOTOTO (EJUARA01) = 79*69'; 
 
 //Batas
 var namagroup17 = 'Jawatengah';
