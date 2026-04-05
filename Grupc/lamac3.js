@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA CACING 13
 // @namespace    http://tampermonkey.net/
-// @version      4.9
+// @version      5.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac3.js
@@ -54,22 +54,22 @@ var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(XBULL76) : 82*84*13';
 
 
-var namagroup13 = 'XXXXK86';
-var Comment13 = 'Grup CACING 13';
+var namagroup13 = 'K86T';
+var Comment13 = 'K86TOTO ( XBAY875 ) : 16*02*90';
 
-var namagroup14 = 'XXXGTO';
-var Comment14 = 'Grup CACING 13';
+var namagroup14 = 'KOITOTO SYDNEY';
+var Comment14 = '#KOITOTO ( XYOU555 ) 64*08';
 
-var namagroup15 = 'INFO';
-var Comment15 = '#HATORIBET*XILA45*41*36*47';
+var namagroup15 = 'RIATOTO';
+var Comment15 = '#RIATOTO XLXL456 = 06*22*99';
 
 var namagroup16 = 'KIKOTOTO';
 var Comment16 = '#KIKOTOTO (XYOU555) = 52*38'; 
 
 //Batas
 
-var namagroup17 = 'KADALLLAL';
-var Comment17 = 'Grup CACING 13';
+var namagroup17 = 'TOYIBSLOT';
+var Comment17 = '#TOYIBSLOT ( XMAX999 ) : 61*92*29';
 
 
 var namagroup18 = 'Jawatengah';
