@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama CACCING 11
 // @namespace    http://tampermonkey.net/
-// @version      4.9
+// @version      5.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
@@ -55,14 +55,14 @@ var namagroup12 = 'DAGELAN';
 var Comment12 = 'DAGELAN4D(ZONGG000) : 39*33*91';
 
 //Batas1
-var namagroup13 = 'Kkkkk86';
-var Comment13 = 'Grup CACING 11';
+var namagroup13 = 'K86T';
+var Comment13 = 'K86TOTO ( ZOOLINE55 ) : 59*56*12';
 
-var namagroup14 = 'GggggTO';
-var Comment14 = 'Grup CACING 11';
+var namagroup14 = 'KOITOTO SYDNEY';
+var Comment14 = '#KOITOTO ( ZUMBA78 ) 07*49';
 
-var namagroup15 = 'INFO';
-var Comment15 = '#HATORIBET*ZAITUN3*34*79*11';
+var namagroup15 = 'RIATOTO';
+var Comment15 = '#RIATOTO ZIGZAG66 = 86*57*19';
 
 var namagroup16 = 'KIKOTOTO';
 var Comment16 = '#KIKOTOTO (ZUMBA78) = 31*01'; 
@@ -70,8 +70,8 @@ var Comment16 = '#KIKOTOTO (ZUMBA78) = 31*01';
 
 //Batas2
 
-var namagroup17 = 'KADALLLAL';
-var Comment17 = 'Grup CACING 11';
+var namagroup17 = 'TOYIBSLOT';
+var Comment17 = '#TOYIBSLOT ( ZUZIE08 ) : 09*26*77';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup CACING 11';
