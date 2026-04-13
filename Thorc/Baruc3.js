@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru CACING 23
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      4.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc3.js
@@ -50,8 +50,8 @@ var Comment10 = '#BLITAR4D (XRAY0909) = 91*22';
 var namagroup11 = 'XXXXKIKOTOTO';
 var Comment11 = '#KIKOTOTO (XYOU555) = 92*29';
 
-var namagroup12 = 'JOTUNTOTO';
-var Comment12 = '#JOTUNTOTO(XKEYPAS34)*56*27*00';
+var namagroup12 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
+var Comment12 = '#KAPALSLOT ( XXX555 ) = 56*27*00';
 
 var namagroup13 = 'XXXXXHITO';
 var Comment13 = '#HITOGEL XMAX999 60*29*39';
