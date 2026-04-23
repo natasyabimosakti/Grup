@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama ANING 13
 // @namespace    http://tampermonkey.net/
-// @version      5.2
+// @version      5.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa3.js
@@ -50,7 +50,7 @@ var Comment10 = 'NEMO4D (MADSOLAR77) : 04*49*21';
 var namagroup11 = 'ALTERT0T0';
 var Comment11 = '#ALTERTOTO#MALAY13*30*84*14';
  
-var namagroup12 = 'DAGELAN';
+var namagroup12 = 'DAGELAN4D';
 var Comment12 = 'DAGELAN4D(MASIKA12) : 77*38*94';
  
 var namagroup13 = 'XXXTOYIBSLOT';
