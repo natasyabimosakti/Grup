@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI Lama CACCING 11
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      5.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupc/lamac1.js
@@ -51,7 +51,7 @@ var Comment10 = 'NEMO4D (ZUMBA78) : 73*14*04';
 var namagroup11 = 'ALTERT0T0';
 var Comment11 = '#ALTERTOTO#ZAITUN3*34*79*11';
 
-var namagroup12 = 'DAGELAN';
+var namagroup12 = 'DAGELAN4D';
 var Comment12 = 'DAGELAN4D(ZONGG000) : 39*33*91';
 
 //Batas1
