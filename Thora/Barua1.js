@@ -49,7 +49,7 @@ var namagroup10 = 'KOITOTO';
 var Comment10 = '#KOITOTO ( PERAK689 ) 67*79';
 
 var namagroup11 = 'PULKAMT0T0';
-var Comment11 = '#PULKAMTOTO (PUCHER333) : 44*25*51';
+var Comment11 = '#PULKAMTOTO (PAPAN567) : 44*25*51';
 
 var namagroup12 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
 var Comment12 = '#KAPALSLOT ( PUCHER333 ) = 92*84*79';
