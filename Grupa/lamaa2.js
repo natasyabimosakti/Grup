@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 12
 // @namespace    http://tampermonkey.net/
-// @version      5.2
+// @version      5.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa2.js
@@ -56,15 +56,17 @@ var Comment12 = 'DAGELAN4D(LUMER99) : 01*72*17';
 
 //BATAS2
 
+var namagroup13 = 'DIVA4D';
+var Comment13 = '#DIVA4D (JUALAN666) = 43*60*57'; 
 
-var namagroup13 = 'XXXXTOYIBSLOT';
-var Comment13 = 'ANGIN 12';
+var namagroup14 = 'TAFSIR';
+var Comment14 = 'SIJITOGEL JERUJI111 99*36*40';
 
-var namagroup14 = 'XXXXPAPUAT0T0';
-var Comment14 =  '#PAPUATOTO=(LURAH24)=99-36';
+var namagroup15 = 'KOITOTO';
+var Comment15 = '#KOITOTO ( JAPAN808 ) 28*16';
 
-var namagroup15 = 'INFO';
-var Comment15 = '#HATORIBET*LIMBAT21*20*55*64';
+var namagroup17 = 'VIP';
+var Comment17 = 'Tok99Toto ( JURANG888 ) : 15*78*10';
 
 var namagroup16 = 'KIKOTOTO';
 var Comment16 = '#KIKOTOTO (JONGKOK222) = 52*48';
@@ -72,8 +74,6 @@ var Comment16 = '#KIKOTOTO (JONGKOK222) = 52*48';
 
 //Batas
 
-var namagroup17 = 'XXXMALAM';
-var Comment17 = 'ANGIN 12';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'ANGIN 12'; 
