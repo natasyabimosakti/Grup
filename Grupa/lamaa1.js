@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 11
 // @namespace    http://tampermonkey.net/
-// @version      5.3
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
@@ -56,21 +56,23 @@ var Comment12 = 'DAGELAN4D(PUNK888) : 56*34*25';
 
 //BATAS BO 1
 
-var namagroup13 = 'TOYIB';
-var Comment13 = '#TOYIBSLOT ( PUCHER333 ) : 86*24';
+var namagroup13 = 'DIVA4D';
+var Comment3 = '#DIVA4D (PERAK689) = 15*78*25';
 
-var namagroup14 = 'XXXXPAPUAT0T0';
-var Comment14 =  '#PAPUATOTO=(PUNK888)=91-41';
+var namagroup14 = 'TAFSIR';
+var Comment14 = 'SIJITOGEL PETRUK99 51*10*39';
 
-var namagroup15 = 'INFO';
-var Comment15 = '#HATORIBET*PAEAI77*43*60*57';
+var namagroup15 = 'VIP';
+var Comment15 = 'Tok99Toto ( PUANCEN444 ) : 03*32*34';
 
-var namagroup16 = 'KIKOTOTO';
-var Comment16 = '#KIKOTOTO (PIQUE020) = 86*24'; 
+var namagroup10 = 'KOITOTO';
+var Comment10 = '#KOITOTO ( PERAK689 ) 67*79';
+
+var namagroup17 = 'KIKOTOTO';
+var Comment17 = '#KIKOTOTO (PIQUE020) = 86*24'; 
 
 //Batas
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Grup ANGIN 11'; 
+
 var namagroup18 = 'ASDLAKSDIWJKDA';
 var Comment18 = 'Grup ANGIN 11';
 
