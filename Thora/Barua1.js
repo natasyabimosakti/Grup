@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 21
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua1.js
@@ -78,7 +78,7 @@ var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
 var keyword = ["🏆ROOM","ROOM","RUM","🆁🅾🅾🅼","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
+var Backlist = ["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
