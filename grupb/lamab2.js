@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA B2
 // @namespace    http://tampermonkey.net/
-// @version      3.47
+// @version      3.48
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/grupb/lamab2.js
@@ -76,7 +76,7 @@ var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer1.json"
 var keyword = ["ROOM","🎱ROOM","𝗥𝗢𝗢𝗠","login","Lomba","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","nemo"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
+var Backlist =["pemenang lomba","bos","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
