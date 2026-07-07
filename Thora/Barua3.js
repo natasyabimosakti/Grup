@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 23
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      5.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua3.js
