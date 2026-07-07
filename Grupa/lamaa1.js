@@ -21,7 +21,7 @@
 
 
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'angin11';
+var Comment18 = 'Angin11';
 
    // --- 1. ANTI-THROTTLE & KEEP-ALIVE (Solusi Tab Background) ---
     (function () {
