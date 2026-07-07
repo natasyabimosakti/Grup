@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI LAMA ANGIN 11
 // @namespace    http://tampermonkey.net/
-// @version      5.7
+// @version      5.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Grupa/lamaa1.js
