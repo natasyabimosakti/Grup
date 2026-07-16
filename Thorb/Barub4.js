@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BAru B4
 // @namespace    http://tampermonkey.net/
-// @version      4.6
+// @version      4.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorb/Barub4.js
