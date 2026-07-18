@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru CACING 23
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc3.js
@@ -20,6 +20,7 @@
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Cacing23';
+
 
 
    // --- 1. ANTI-THROTTLE & KEEP-ALIVE (Solusi Tab Background) ---
