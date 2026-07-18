@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru CACING 24
 // @namespace    http://tampermonkey.net/
-// @version      4.5
+// @version      4.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thorc/Baruc4.js
@@ -19,6 +19,7 @@
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Cacing24';
+
 
 
 
