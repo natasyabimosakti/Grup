@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baru ANGIN 21
 // @namespace    http://tampermonkey.net/
-// @version      5.2
+// @version      5.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Grup/refs/heads/main/Thora/Barua1.js
@@ -20,7 +20,7 @@
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Angin21';
 
- // --- 1. ANTI-THROTTLE & KEEP-ALIVE (Solusi Tab Background) ---
+   // --- 1. ANTI-THROTTLE & KEEP-ALIVE (Solusi Tab Background) ---
     (function () {
         // Memaksa properti visibility agar selalu 'visible'
         Object.defineProperty(document, 'visibilityState', { value: 'visible', writable: true });
